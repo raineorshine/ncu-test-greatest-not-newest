@@ -1,6 +1,6 @@
 {
   "name": "ncu-test-greatest-not-newest",
   "description": "A package that allows npm-check-updates to test when the greatest (highest) published version is not the last published",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Raine Revere <raine@cybersemics.org> (https://github.com/raineorshine)"
 }
